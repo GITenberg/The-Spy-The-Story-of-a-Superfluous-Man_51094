@@ -1,4 +1,8 @@
 _repo: The-Spy-The-Story-of-a-Superfluous-Man_51094
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51094-h/images/cover.jpg
 creator:
   author:
     agent_name: Gorky, Maksim
@@ -12,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/348
     wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51094#The-Spy-The-Story-of-a-Superfluous-Man
 gutenberg_issued: '2016-01-31'
 gutenberg_type: Text
 identifiers:
